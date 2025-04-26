@@ -1,4 +1,4 @@
-Credit Risk Prediction Model
+# Credit Risk Prediction Model
 This project builds a machine learning model to predict credit risk ("good" or "bad") using the German Credit Dataset.
 The workflow covers data preprocessing, training, hyperparameter tuning, and evaluation using multiple ML models.
 
